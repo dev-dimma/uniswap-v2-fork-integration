@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
-// Repository: https://github.com/YOUR_USERNAME/YOUR_REPO_NAME
-// Commit: REPLACE_WITH_YOUR_ACTUAL_COMMIT_HASH
+// Repository: https://github.com/dev-dimma/uniswap-v2-fork-integration
+// Commit: 68f2aa9ea9e9e12b14bf2629999841fa7e748b97
 pragma solidity ^0.8.20;
 
 interface IERC20 {
